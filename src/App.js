@@ -20,6 +20,7 @@ function App() {
 <>
 <BrowserRouter>
     <Routes>
+      <Route path="/" element={<Index/>} />
       <Route path="/index" element={<Index/>} />
       <Route path="/about" element={<About/>} />
       <Route path="/contact" element={<Contact/>} />
@@ -28,7 +29,6 @@ function App() {
       <Route path="/car" element={<Car/>} />
     </Routes>
 </BrowserRouter>
-  <Index/>
 </>
   );
 }

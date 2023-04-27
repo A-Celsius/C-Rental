@@ -4,12 +4,12 @@ const Contanct = () => {
   return (
     <div>
       <>
-  <nav
+      <nav
     className="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light"
     id="ftco-navbar"
   >
     <div className="container">
-      <a className="navbar-brand" href="index.html">
+      <a className="navbar-brand" href="\index">
         Car<span>Book</span>
       </a>
       <button
@@ -25,38 +25,38 @@ const Contanct = () => {
       </button>
       <div className="collapse navbar-collapse" id="ftco-nav">
         <ul className="navbar-nav ml-auto">
-          <li className="nav-item">
-            <a href="index.html" className="nav-link">
+          <li className="nav-item active">
+            <a href="\index" className="nav-link">
               Home
             </a>
           </li>
           <li className="nav-item">
-            <a href="about.html" className="nav-link">
+            <a href="\about" className="nav-link">
               About
             </a>
           </li>
           <li className="nav-item">
-            <a href="services.html" className="nav-link">
+            <a href="\services" className="nav-link">
               Services
             </a>
           </li>
           <li className="nav-item">
-            <a href="pricing.html" className="nav-link">
+            <a href="\pricing" className="nav-link">
               Pricing
             </a>
           </li>
           <li className="nav-item">
-            <a href="car.html" className="nav-link">
+            <a href="\car" className="nav-link">
               Cars
             </a>
           </li>
           <li className="nav-item">
-            <a href="blog.html" className="nav-link">
+            <a href="\blog" className="nav-link">
               Blog
             </a>
           </li>
-          <li className="nav-item active">
-            <a href="contact.html" className="nav-link">
+          <li className="nav-item">
+            <a href="\contact" className="nav-link">
               Contact
             </a>
           </li>
@@ -76,7 +76,7 @@ const Contanct = () => {
         <div className="col-md-9 ftco-animate pb-5">
           <p className="breadcrumbs">
             <span className="mr-2">
-              <a href="index.html">
+              <a href="\">
                 Home <i className="ion-ios-arrow-forward" />
               </a>
             </span>{" "}

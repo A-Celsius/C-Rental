@@ -77,7 +77,7 @@ const About = () => {
         <div className="col-md-9 ftco-animate pb-5">
           <p className="breadcrumbs">
             <span className="mr-2">
-              <a href="index.html">
+              <a href="\">
                 Home <i className="ion-ios-arrow-forward" />
               </a>
             </span>{" "}
@@ -117,7 +117,7 @@ const About = () => {
               into your mouth.
             </p>
             <p>
-              <a href="#" className="btn btn-primary py-3 px-4">
+              <a href="\car" className="btn btn-primary py-3 px-4">
                 Search Vehicle
               </a>
             </p>
