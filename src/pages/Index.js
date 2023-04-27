@@ -9,7 +9,7 @@ const Index = () => {
     id="ftco-navbar"
   >
     <div className="container">
-      <a className="navbar-brand" href="index.html">
+      <a className="navbar-brand" href="\index">
         Car<span>Book</span>
       </a>
       <button
