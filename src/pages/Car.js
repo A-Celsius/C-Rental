@@ -76,7 +76,7 @@ const Car = () => {
         <div className="col-md-9 ftco-animate pb-5">
           <p className="breadcrumbs">
             <span className="mr-2">
-              <a href="index.html">
+              <a href="\">
                 Home <i className="ion-ios-arrow-forward" />
               </a>
             </span>{" "}
@@ -522,12 +522,12 @@ const Car = () => {
             <h2 className="ftco-heading-2">Information</h2>
             <ul className="list-unstyled">
               <li>
-                <a href="#" className="py-2 d-block">
+                <a href="\about" className="py-2 d-block">
                   About
                 </a>
               </li>
               <li>
-                <a href="#" className="py-2 d-block">
+                <a href="\services" className="py-2 d-block">
                   Services
                 </a>
               </li>
@@ -574,7 +574,7 @@ const Car = () => {
                 </a>
               </li>
               <li>
-                <a href="#" className="py-2 d-block">
+                <a href="\contact" className="py-2 d-block">
                   Contact Us
                 </a>
               </li>

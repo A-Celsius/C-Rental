@@ -558,12 +558,12 @@ const Pricing = () => {
             <h2 className="ftco-heading-2">Information</h2>
             <ul className="list-unstyled">
               <li>
-                <a href="#" className="py-2 d-block">
+                <a href="\about" className="py-2 d-block">
                   About
                 </a>
               </li>
               <li>
-                <a href="#" className="py-2 d-block">
+                <a href="\services" className="py-2 d-block">
                   Services
                 </a>
               </li>
@@ -610,7 +610,7 @@ const Pricing = () => {
                 </a>
               </li>
               <li>
-                <a href="#" className="py-2 d-block">
+                <a href="\contact" className="py-2 d-block">
                   Contact Us
                 </a>
               </li>
