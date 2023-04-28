@@ -157,7 +157,7 @@ const About = () => {
         <div class="carousel-testimony owl-carousel ftco-owl owl-loaded owl-drag">  
               <div class="owl-stage-outer"><div class="owl-stage" style={{transition: "all 0.25s ease 0s", width: '4180px', transform: 'translate3d(-760px, 0px, 0px)'}}><div class="owl-item active center cloned" style={{width: '350px', marginRight: '30px'}}><div class="item">
                   <div class="testimony-wrap rounded text-center py-4 pb-5">                                                
-                    <div class="user-img mb-2" style={{backgroundImage: `url($person_1`}}>
+                    <div class="user-img mb-2" style={{backgroundImage: `url(${person_1})`}}>
                     </div>
                     <div class="text pt-4">
                       <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -167,7 +167,7 @@ const About = () => {
                   </div>
                 </div></div><div class="owl-item active center cloned" style={{width: '350px', marginRight: '30px'}}><div class="item">
                   <div class="testimony-wrap rounded text-center py-4 pb-5">
-                    <div class="user-img mb-2" style={{backgroundImage: `url($person_1`}}>
+                    <div class="user-img mb-2" style={{backgroundImage: `url(${person_1})`}}>
                     </div>
                     <div class="text pt-4">
                       <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
