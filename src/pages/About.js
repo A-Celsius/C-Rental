@@ -52,11 +52,6 @@ const About = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a href="\blog" className="nav-link">
-              Blog
-            </a>
-          </li>
-          <li className="nav-item">
             <a href="\contact" className="nav-link">
               Contact
             </a>
@@ -126,24 +121,6 @@ const About = () => {
       </div>
     </div>
   </section>
-  <section
-    className="ftco-section ftco-intro"
-    style={{ backgroundImage: "url(images/bg_3.jpg)" }}
-  >
-    <div className="overlay" />
-    <div className="container">
-      <div className="row justify-content-end">
-        <div className="col-md-6 heading-section heading-section-white ftco-animate">
-          <h2 className="mb-3">
-            Do You Want To Earn With Us? So Don't Be Late.
-          </h2>
-          <a href="#" className="btn btn-primary btn-lg">
-            Become A Driver
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
   <section className="ftco-section testimony-section bg-light">
     <div className="container">
       <div className="row justify-content-center mb-5">
@@ -157,7 +134,7 @@ const About = () => {
         <div class="carousel-testimony owl-carousel ftco-owl owl-loaded owl-drag">  
               <div class="owl-stage-outer"><div class="owl-stage" style={{transition: "all 0.25s ease 0s", width: '4180px', transform: 'translate3d(-760px, 0px, 0px)'}}><div class="owl-item active center cloned" style={{width: '350px', marginRight: '30px'}}><div class="item">
                   <div class="testimony-wrap rounded text-center py-4 pb-5">                                                
-                    <div class="user-img mb-2" style={{backgroundImage: `url($person_1`}}>
+                    <div class="user-img mb-2" style={{backgroundImage: `url(${person_1}`}}>
                     </div>
                     <div class="text pt-4">
                       <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -167,7 +144,7 @@ const About = () => {
                   </div>
                 </div></div><div class="owl-item active center cloned" style={{width: '350px', marginRight: '30px'}}><div class="item">
                   <div class="testimony-wrap rounded text-center py-4 pb-5">
-                    <div class="user-img mb-2" style={{backgroundImage: `url($person_1`}}>
+                    <div class="user-img mb-2" style={{backgroundImage: `url(${person_1}`}}>
                     </div>
                     <div class="text pt-4">
                       <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>

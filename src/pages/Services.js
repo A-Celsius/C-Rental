@@ -51,11 +51,6 @@ const Services = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a href="\blog" className="nav-link">
-              Blog
-            </a>
-          </li>
-          <li className="nav-item">
             <a href="\contact" className="nav-link">
               Contact
             </a>
@@ -153,24 +148,6 @@ const Services = () => {
               </p>
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section
-    className="ftco-section ftco-intro"
-    style={{ backgroundImage: "url(images/bg_3.jpg)" }}
-  >
-    <div className="overlay" />
-    <div className="container">
-      <div className="row justify-content-end">
-        <div className="col-md-6 heading-section heading-section-white ftco-animate">
-          <h2 className="mb-3">
-            Do You Want To Earn With Us? So Don't Be Late.
-          </h2>
-          <a href="#" className="btn btn-primary btn-lg">
-            Become A Driver
-          </a>
         </div>
       </div>
     </div>

@@ -51,11 +51,6 @@ const Index = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a href="\blog" className="nav-link">
-              Blog
-            </a>
-          </li>
-          <li className="nav-item">
             <a href="\contact" className="nav-link">
               Contact
             </a>
@@ -450,24 +445,6 @@ const Index = () => {
       </div>
     </div>
   </section>
-  <section
-    className="ftco-section ftco-intro"
-    style={{ backgroundImage: "url(images/bg_3.jpg)" }}
-  >
-    <div className="overlay" />
-    <div className="container">
-      <div className="row justify-content-end">
-        <div className="col-md-6 heading-section heading-section-white ftco-animate">
-          <h2 className="mb-3">
-            Do You Want To Earn With Us? So Don't Be Late.
-          </h2>
-          <a href="#" className="btn btn-primary btn-lg">
-            Become A Driver
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
   <section className="ftco-section testimony-section bg-light">
     <div className="container">
       <div className="row justify-content-center mb-5">
@@ -563,114 +540,6 @@ const Index = () => {
                   <span className="position">System Analyst</span>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section className="ftco-section">
-    <div className="container">
-      <div className="row justify-content-center mb-5">
-        <div className="col-md-7 heading-section text-center ftco-animate">
-          <span className="subheading">Blog</span>
-          <h2>Recent Blog</h2>
-        </div>
-      </div>
-      <div className="row d-flex">
-        <div className="col-md-4 d-flex ftco-animate">
-          <div className="blog-entry justify-content-end">
-            <a
-              href="blog-single.html"
-              className="block-20"
-              style={{ backgroundImage: 'url("images/image_1.jpg")' }}
-            ></a>
-            <div className="text pt-4">
-              <div className="meta mb-3">
-                <div>
-                  <a href="#">Oct. 29, 2019</a>
-                </div>
-                <div>
-                  <a href="#">Admin</a>
-                </div>
-                <div>
-                  <a href="#" className="meta-chat">
-                    <span className="icon-chat" /> 3
-                  </a>
-                </div>
-              </div>
-              <h3 className="heading mt-2">
-                <a href="#">Why Lead Generation is Key for Business Growth</a>
-              </h3>
-              <p>
-                <a href="#" className="btn btn-primary">
-                  Read more
-                </a>
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4 d-flex ftco-animate">
-          <div className="blog-entry justify-content-end">
-            <a
-              href="blog-single.html"
-              className="block-20"
-              style={{ backgroundImage: 'url("images/image_2.jpg")' }}
-            ></a>
-            <div className="text pt-4">
-              <div className="meta mb-3">
-                <div>
-                  <a href="#">Oct. 29, 2019</a>
-                </div>
-                <div>
-                  <a href="#">Admin</a>
-                </div>
-                <div>
-                  <a href="#" className="meta-chat">
-                    <span className="icon-chat" /> 3
-                  </a>
-                </div>
-              </div>
-              <h3 className="heading mt-2">
-                <a href="#">Why Lead Generation is Key for Business Growth</a>
-              </h3>
-              <p>
-                <a href="#" className="btn btn-primary">
-                  Read more
-                </a>
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4 d-flex ftco-animate">
-          <div className="blog-entry">
-            <a
-              href="blog-single.html"
-              className="block-20"
-              style={{ backgroundImage: 'url("images/image_3.jpg")' }}
-            ></a>
-            <div className="text pt-4">
-              <div className="meta mb-3">
-                <div>
-                  <a href="#">Oct. 29, 2019</a>
-                </div>
-                <div>
-                  <a href="#">Admin</a>
-                </div>
-                <div>
-                  <a href="#" className="meta-chat">
-                    <span className="icon-chat" /> 3
-                  </a>
-                </div>
-              </div>
-              <h3 className="heading mt-2">
-                <a href="#">Why Lead Generation is Key for Business Growth</a>
-              </h3>
-              <p>
-                <a href="#" className="btn btn-primary">
-                  Read more
-                </a>
-              </p>
             </div>
           </div>
         </div>
