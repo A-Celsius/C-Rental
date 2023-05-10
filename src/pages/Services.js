@@ -74,11 +74,6 @@ const Services = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a href="\blog" className="nav-link">
-              Blog
-            </a>
-          </li>
-          <li className="nav-item">
             <a href="\contact" className="nav-link">
               Contact
             </a>
@@ -178,17 +173,17 @@ const Services = () => {
   </section>
   <section
     className="ftco-section ftco-intro"
-    style={{ backgroundImage: `url(${bg_3})`}}
+    style={{ backgroundImage: "url(images/bg_3.jpg)" }}
   >
     <div className="overlay" />
     <div className="container">
       <div className="row justify-content-end">
         <div className="col-md-6 heading-section heading-section-white ftco-animate">
           <h2 className="mb-3">
-            Do You Want To Join Us? So Don't Be Late.
+            Do You Want To Earn With Us? So Don't Be Late.
           </h2>
           <a href="#" className="btn btn-primary btn-lg">
-            Become A User
+            Become A Driver
           </a>
         </div>
       </div>

@@ -73,11 +73,6 @@ const Index = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a href="\blog" className="nav-link">
-              Blog
-            </a>
-          </li>
-          <li className="nav-item">
             <a href="\contact" className="nav-link">
               Contact
             </a>
@@ -474,7 +469,7 @@ const Index = () => {
   </section>
   <section
     className="ftco-section ftco-intro"
-    style={{ backgroundImage: `url(${bg_3})`}}
+    style={{ backgroundImage: "url(images/bg_3.jpg)" }}
   >
     <div className="overlay" />
     <div className="container">
@@ -605,7 +600,7 @@ const Index = () => {
             <a
               href="blog-single.html"
               className="block-20"
-              style={{ backgroundImage: `url(${image1})`}}
+              style={{ backgroundImage: 'url("images/image_1.jpg")' }}
             ></a>
             <div className="text pt-4">
               <div className="meta mb-3">
@@ -637,7 +632,7 @@ const Index = () => {
             <a
               href="blog-single.html"
               className="block-20"
-              style={{ backgroundImage: `url(${image2})`}}
+              style={{ backgroundImage: 'url("images/image_2.jpg")' }}
             ></a>
             <div className="text pt-4">
               <div className="meta mb-3">
@@ -669,7 +664,7 @@ const Index = () => {
             <a
               href="blog-single.html"
               className="block-20"
-              style={{ backgroundImage: `url(${image3})`}}
+              style={{ backgroundImage: 'url("images/image_3.jpg")' }}
             ></a>
             <div className="text pt-4">
               <div className="meta mb-3">

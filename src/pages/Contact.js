@@ -71,11 +71,6 @@ const Contanct = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a href="\blog" className="nav-link">
-              Blog
-            </a>
-          </li>
-          <li className="nav-item">
             <a href="\contact" className="nav-link">
               Contact
             </a>
@@ -120,8 +115,7 @@ const Contanct = () => {
                   <span className="icon-map-o" />
                 </div>
                 <p>
-                  <span>Address:</span> 198 West 21th Street, Suite 721 New York
-                  NY 10016
+                  <span>Address:</span> Shri Vaishnav Vidyapeeth Vishwavidyalaya
                 </p>
               </div>
             </div>
@@ -132,7 +126,7 @@ const Contanct = () => {
                 </div>
                 <p>
                   <span>Phone:</span>{" "}
-                  <a href="tel://1234567920">+ 1235 2355 98</a>
+                  <a href="tel://1234567920">+ 1234 56789 10</a>
                 </p>
               </div>
             </div>
@@ -305,7 +299,7 @@ const Contanct = () => {
                 <li>
                   <span className="icon icon-map-marker" />
                   <span className="text">
-                    203 Fake St. Mountain View, San Francisco, California, USA
+                    SVVV, Indore, Madhyapradesh, India
                   </span>
                 </li>
                 <li>
