@@ -1,4 +1,27 @@
 import React from 'react'
+// const bg_1 = require("../images/bg_1.jpg")
+// const bg_2 = require("../images/bg_2.jpg")
+const bg_3 = require("../images/bg_3.jpg")
+const bg_4 = require("../images/bg_4.jpg")
+// const person_1 = require("../images/person_1.jpg")
+// const person_2 = require("../images/person_2.jpg")
+// const person_3 = require("../images/person_3.jpg")
+// const person_4 = require("../images/person_4.jpg")
+// const car1 = require("../images/car-1.jpg")
+// const car2 = require("../images/car-2.jpg")
+// const car3 = require("../images/car-3.jpg")
+// const car4 = require("../images/car-4.jpg")
+// const car5 = require("../images/car-5.jpg")
+// const car6 = require("../images/car-6.jpg")
+// const car7 = require("../images/car-7.jpg")
+// const car8 = require("../images/car-8.jpg")
+// const car9 = require("../images/car-9.jpg")
+// const car10 = require("../images/car-10.jpg")
+// const car11 = require("../images/car-11.jpg")
+// const car12 = require("../images/car-12.jpg")
+// const image1 = require("../images/image_1.jpg")
+// const image2 = require("../images/image_2.jpg")
+// const image3 = require("../images/image_3.jpg")
 
 const Services = () => {
   return (
@@ -67,7 +90,7 @@ const Services = () => {
   {/* END nav */}
   <section
     className="hero-wrap hero-wrap-2 js-fullheight"
-    style={{ backgroundImage: 'url("images/bg_3.jpg")' }}
+    style={{ backgroundImage: `url(${bg_4})`}}
     data-stellar-background-ratio="0.5"
   >
     <div className="overlay" />
@@ -104,10 +127,9 @@ const Services = () => {
               <span className="flaticon-route" />
             </div>
             <div className="text w-100">
-              <h3 className="heading mb-2">Wedding Ceremony</h3>
+              <h3 className="heading mb-2">Vehicle rental</h3>
               <p>
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia.
+              The app allows users to browse and rent vehicles from a wide range of options, including economy cars, SUVs, vans, and luxury vehicles. The rental period can be customized according to the user's needs.
               </p>
             </div>
           </div>
@@ -118,10 +140,9 @@ const Services = () => {
               <span className="flaticon-route" />
             </div>
             <div className="text w-100">
-              <h3 className="heading mb-2">City Transfer</h3>
+              <h3 className="heading mb-2">Pick-up and drop-off locations</h3>
               <p>
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia.
+              Users can choose the pick-up and drop-off locations for their rental vehicle, which can include airport locations, rental stations, or other designated areas.
               </p>
             </div>
           </div>
@@ -132,10 +153,9 @@ const Services = () => {
               <span className="flaticon-route" />
             </div>
             <div className="text w-100">
-              <h3 className="heading mb-2">Airport Transfer</h3>
+              <h3 className="heading mb-2">Online booking and payment</h3>
               <p>
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia.
+              Users can book and pay for their rental vehicle through the app, which provides a seamless and secure online booking experience.
               </p>
             </div>
           </div>
@@ -146,10 +166,9 @@ const Services = () => {
               <span className="flaticon-route" />
             </div>
             <div className="text w-100">
-              <h3 className="heading mb-2">Whole City Tour</h3>
+              <h3 className="heading mb-2">Customer support</h3>
               <p>
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia.
+              The app provides customer support to users, including assistance with booking, rental-related questions, and roadside assistance in case of emergencies.
               </p>
             </div>
           </div>
@@ -159,17 +178,17 @@ const Services = () => {
   </section>
   <section
     className="ftco-section ftco-intro"
-    style={{ backgroundImage: "url(images/bg_3.jpg)" }}
+    style={{ backgroundImage: `url(${bg_3})`}}
   >
     <div className="overlay" />
     <div className="container">
       <div className="row justify-content-end">
         <div className="col-md-6 heading-section heading-section-white ftco-animate">
           <h2 className="mb-3">
-            Do You Want To Earn With Us? So Don't Be Late.
+            Do You Want To Join Us? So Don't Be Late.
           </h2>
           <a href="#" className="btn btn-primary btn-lg">
-            Become A Driver
+            Become A User
           </a>
         </div>
       </div>

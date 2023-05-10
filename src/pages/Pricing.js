@@ -1,4 +1,26 @@
 import React from 'react'
+// const bg_1 = require("../images/bg_1.jpg")
+// const bg_2 = require("../images/bg_2.jpg")
+const bg_3 = require("../images/bg_3.jpg")
+// const person_1 = require("../images/person_1.jpg")
+// const person_2 = require("../images/person_2.jpg")
+// const person_3 = require("../images/person_3.jpg")
+// const person_4 = require("../images/person_4.jpg")
+const car1 = require("../images/car-1.jpg")
+const car2 = require("../images/car-2.jpg")
+const car3 = require("../images/car-3.jpg")
+const car4 = require("../images/car-4.jpg")
+const car5 = require("../images/car-5.jpg")
+const car6 = require("../images/car-6.jpg")
+// const car7 = require("../images/car-7.jpg")
+// const car8 = require("../images/car-8.jpg")
+// const car9 = require("../images/car-9.jpg")
+// const car10 = require("../images/car-10.jpg")
+// const car11 = require("../images/car-11.jpg")
+// const car12 = require("../images/car-12.jpg")
+// const image1 = require("../images/image_1.jpg")
+// const image2 = require("../images/image_2.jpg")
+// const image3 = require("../images/image_3.jpg")
 
 const Pricing = () => {
   return (
@@ -67,7 +89,7 @@ const Pricing = () => {
   {/* END nav */}
   <section
     className="hero-wrap hero-wrap-2 js-fullheight"
-    style={{ backgroundImage: 'url("images/bg_3.jpg")' }}
+    style={{ backgroundImage: `url(${bg_3})`}}
     data-stellar-background-ratio="0.5"
   >
     <div className="overlay" />
@@ -109,7 +131,7 @@ const Pricing = () => {
                   <td className="car-image">
                     <div
                       className="img"
-                      style={{ backgroundImage: "url(images/car-1.jpg)" }}
+                      style={{ backgroundImage: `url(${car1})`}}
                     />
                   </td>
                   <td className="product-name">
@@ -177,7 +199,7 @@ const Pricing = () => {
                   <td className="car-image">
                     <div
                       className="img"
-                      style={{ backgroundImage: "url(images/car-2.jpg)" }}
+                      style={{ backgroundImage: `url(${car2})`}}
                     />
                   </td>
                   <td className="product-name">
@@ -245,7 +267,7 @@ const Pricing = () => {
                   <td className="car-image">
                     <div
                       className="img"
-                      style={{ backgroundImage: "url(images/car-3.jpg)" }}
+                      style={{ backgroundImage: `url(${car3})`}}
                     />
                   </td>
                   <td className="product-name">
@@ -313,7 +335,7 @@ const Pricing = () => {
                   <td className="car-image">
                     <div
                       className="img"
-                      style={{ backgroundImage: "url(images/car-4.jpg)" }}
+                      style={{ backgroundImage: `url(${car4})`}}
                     />
                   </td>
                   <td className="product-name">
@@ -381,7 +403,7 @@ const Pricing = () => {
                   <td className="car-image">
                     <div
                       className="img"
-                      style={{ backgroundImage: "url(images/car-5.jpg)" }}
+                      style={{ backgroundImage: `url(${car5})`}}
                     />
                   </td>
                   <td className="product-name">
@@ -449,7 +471,7 @@ const Pricing = () => {
                   <td className="car-image">
                     <div
                       className="img"
-                      style={{ backgroundImage: "url(images/car-6.jpg)" }}
+                      style={{ backgroundImage: `url(${car6})`}}
                     />
                   </td>
                   <td className="product-name">

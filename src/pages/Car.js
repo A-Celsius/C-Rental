@@ -1,4 +1,17 @@
 import React from 'react'
+const car1 = require("../images/car-1.jpg")
+const car2 = require("../images/car-2.jpg")
+const car3 = require("../images/car-3.jpg")
+const car4 = require("../images/car-4.jpg")
+const car5 = require("../images/car-5.jpg")
+const car6 = require("../images/car-6.jpg")
+const car7 = require("../images/car-7.jpg")
+const car8 = require("../images/car-8.jpg")
+const car9 = require("../images/car-9.jpg")
+const car10 = require("../images/car-10.jpg")
+const car11 = require("../images/car-11.jpg")
+const car12 = require("../images/car-12.jpg")
+
 
 const Car = () => {
   return (
@@ -67,7 +80,7 @@ const Car = () => {
   {/* END nav */}
   <section
     className="hero-wrap hero-wrap-2 js-fullheight"
-    style={{ backgroundImage: 'url("images/bg_3.jpg")' }}
+    style={{backgroundImage: `url(${car3})`}}
     data-stellar-background-ratio="0.5"
   >
     <div className="overlay" />
@@ -96,7 +109,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-1.jpg)" }}
+              style={{ backgroundImage: `url(${car1})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -126,7 +139,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-2.jpg)" }}
+              style={{backgroundImage: `url(${car2})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -156,7 +169,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-3.jpg)" }}
+              style={{backgroundImage: `url(${car3})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -186,7 +199,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-4.jpg)" }}
+              style={{backgroundImage: `url(${car4})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -216,7 +229,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-5.jpg)" }}
+              style={{backgroundImage: `url(${car5})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -246,7 +259,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-6.jpg)" }}
+              style={{backgroundImage: `url(${car6})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -276,7 +289,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-7.jpg)" }}
+              style={{backgroundImage: `url(${car7})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -306,7 +319,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-8.jpg)" }}
+              style={{backgroundImage: `url(${car8})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -336,7 +349,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-9.jpg)" }}
+              style={{backgroundImage: `url(${car9})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -366,7 +379,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-10.jpg)" }}
+              style={{backgroundImage: `url(${car10})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -396,7 +409,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-11.jpg)" }}
+              style={{backgroundImage: `url(${car11})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">
@@ -426,7 +439,7 @@ const Car = () => {
           <div className="car-wrap rounded ftco-animate">
             <div
               className="img rounded d-flex align-items-end"
-              style={{ backgroundImage: "url(images/car-12.jpg)" }}
+              style={{backgroundImage: `url(${car12})`}}
             ></div>
             <div className="text">
               <h2 className="mb-0">

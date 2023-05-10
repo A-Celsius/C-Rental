@@ -1,4 +1,26 @@
 import React from 'react'
+const bg_1 = require("../images/bg_1.jpg")
+// const bg_2 = require("../images/bg_2.jpg")
+const bg_3 = require("../images/bg_3.jpg")
+const person_1 = require("../images/person_1.jpg")
+const person_2 = require("../images/person_2.jpg")
+const person_3 = require("../images/person_3.jpg")
+// const person_4 = require("../images/person_4.jpg")
+const car1 = require("../images/car-1.jpg")
+const car2 = require("../images/car-2.jpg")
+const car3 = require("../images/car-3.jpg")
+const car4 = require("../images/car-4.jpg")
+// const car5 = require("../images/car-5.jpg")
+// const car6 = require("../images/car-6.jpg")
+// const car7 = require("../images/car-7.jpg")
+// const car8 = require("../images/car-8.jpg")
+// const car9 = require("../images/car-9.jpg")
+// const car10 = require("../images/car-10.jpg")
+// const car11 = require("../images/car-11.jpg")
+// const car12 = require("../images/car-12.jpg")
+const image1 = require("../images/image_1.jpg")
+const image2 = require("../images/image_2.jpg")
+const image3 = require("../images/image_3.jpg")
 
 const Index = () => {
   return (
@@ -67,7 +89,7 @@ const Index = () => {
   {/* END nav */}
   <div
     className="hero-wrap ftco-degree-bg"
-    style={{ backgroundImage: 'url("images/bg_1.jpg")' }}
+    style={{ backgroundImage: `url(${bg_1})`}}
     data-stellar-background-ratio="0.5"
   >
     <div className="overlay" />
@@ -237,7 +259,7 @@ const Index = () => {
               <div className="car-wrap rounded ftco-animate">
                 <div
                   className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: "url(images/car-1.jpg)" }}
+                  style={{ backgroundImage: `url(${car1})`}}
                 ></div>
                 <div className="text">
                   <h2 className="mb-0">
@@ -264,7 +286,7 @@ const Index = () => {
               <div className="car-wrap rounded ftco-animate">
                 <div
                   className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: "url(images/car-2.jpg)" }}
+                  style={{ backgroundImage: `url(${car2})`}}
                 ></div>
                 <div className="text">
                   <h2 className="mb-0">
@@ -291,7 +313,7 @@ const Index = () => {
               <div className="car-wrap rounded ftco-animate">
                 <div
                   className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: "url(images/car-3.jpg)" }}
+                  style={{ backgroundImage: `url(${car3})`}}
                 ></div>
                 <div className="text">
                   <h2 className="mb-0">
@@ -318,7 +340,7 @@ const Index = () => {
               <div className="car-wrap rounded ftco-animate">
                 <div
                   className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: "url(images/car-4.jpg)" }}
+                  style={{ backgroundImage: `url(${car4})`}}
                 ></div>
                 <div className="text">
                   <h2 className="mb-0">
@@ -452,7 +474,7 @@ const Index = () => {
   </section>
   <section
     className="ftco-section ftco-intro"
-    style={{ backgroundImage: "url(images/bg_3.jpg)" }}
+    style={{ backgroundImage: `url(${bg_3})`}}
   >
     <div className="overlay" />
     <div className="container">
@@ -483,7 +505,7 @@ const Index = () => {
               <div className="testimony-wrap rounded text-center py-4 pb-5">
                 <div
                   className="user-img mb-2"
-                  style={{ backgroundImage: "url(images/person_1.jpg)" }}
+                  style={{ backgroundImage: `url(${person_1})`}}
                 ></div>
                 <div className="text pt-4">
                   <p className="mb-4">
@@ -500,7 +522,7 @@ const Index = () => {
               <div className="testimony-wrap rounded text-center py-4 pb-5">
                 <div
                   className="user-img mb-2"
-                  style={{ backgroundImage: "url(images/person_2.jpg)" }}
+                  style={{ backgroundImage: `url(${person_2})`}}
                 ></div>
                 <div className="text pt-4">
                   <p className="mb-4">
@@ -517,7 +539,7 @@ const Index = () => {
               <div className="testimony-wrap rounded text-center py-4 pb-5">
                 <div
                   className="user-img mb-2"
-                  style={{ backgroundImage: "url(images/person_3.jpg)" }}
+                  style={{ backgroundImage: `url(${person_3})`}}
                 ></div>
                 <div className="text pt-4">
                   <p className="mb-4">
@@ -534,7 +556,7 @@ const Index = () => {
               <div className="testimony-wrap rounded text-center py-4 pb-5">
                 <div
                   className="user-img mb-2"
-                  style={{ backgroundImage: "url(images/person_1.jpg)" }}
+                  style={{ backgroundImage: `url(${person_1})`}}
                 ></div>
                 <div className="text pt-4">
                   <p className="mb-4">
@@ -551,7 +573,7 @@ const Index = () => {
               <div className="testimony-wrap rounded text-center py-4 pb-5">
                 <div
                   className="user-img mb-2"
-                  style={{ backgroundImage: "url(images/person_1.jpg)" }}
+                  style={{ backgroundImage: `url(${person_1})`}}
                 ></div>
                 <div className="text pt-4">
                   <p className="mb-4">
@@ -583,7 +605,7 @@ const Index = () => {
             <a
               href="blog-single.html"
               className="block-20"
-              style={{ backgroundImage: 'url("images/image_1.jpg")' }}
+              style={{ backgroundImage: `url(${image1})`}}
             ></a>
             <div className="text pt-4">
               <div className="meta mb-3">
@@ -615,7 +637,7 @@ const Index = () => {
             <a
               href="blog-single.html"
               className="block-20"
-              style={{ backgroundImage: 'url("images/image_2.jpg")' }}
+              style={{ backgroundImage: `url(${image2})`}}
             ></a>
             <div className="text pt-4">
               <div className="meta mb-3">
@@ -647,7 +669,7 @@ const Index = () => {
             <a
               href="blog-single.html"
               className="block-20"
-              style={{ backgroundImage: 'url("images/image_3.jpg")' }}
+              style={{ backgroundImage: `url(${image3})`}}
             ></a>
             <div className="text pt-4">
               <div className="meta mb-3">
