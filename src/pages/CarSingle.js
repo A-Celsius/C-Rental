@@ -1,5 +1,5 @@
 import React from 'react'
-const bg_1 = require("../images/bg_1.jpg")
+const bg_1 = require("../images/car_bg.jpg")
 const bg_2 = require("../images/bg_2.jpg")
 const bg_3 = require("../images/bg_3.jpg")
 const person_1 = require("../images/person_1.jpg")
@@ -112,7 +112,7 @@ const CarSingle = () => {
           <div className="car-details">
             <div
               className="img rounded"
-              style={{ backgroundImage: `url(${bg_1})`}}
+              style={{ backgroundImage: `url(${car1})`}}
             />
             <div className="text text-center">
               <span className="subheading">Cheverolet</span>
@@ -755,17 +755,7 @@ const CarSingle = () => {
         </div>
       </div>
       <div className="row">
-        <div className="col-md-12 text-center">
-          <p>
-            {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-            Copyright © All rights reserved | This template is made with{" "}
-            <i className="icon-heart color-danger" aria-hidden="true" /> by{" "}
-            <a href="https://colorlib.com" target="_blank">
-              Colorlib
-            </a>
-            {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-          </p>
-        </div>
+        /carsingle
       </div>
     </div>
   </footer>

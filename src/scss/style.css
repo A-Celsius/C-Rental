@@ -9642,7 +9642,7 @@ h1, h2, h3, h4, h5,
 }
 
 .ftco-car-details .services .media-body .icon span {
-  color: #1089ff;
+  color: #fcc603;
 }
 .ftco-car-details .services .media-body .text h3 {
   font-size: 14px !important;
@@ -9680,7 +9680,7 @@ h1, h2, h3, h4, h5,
   color: rgba(0, 0, 0, 0.4) !important;
 }
 .nav-pills li a.active {
-  color: #1089ff !important;
+  color: #fcc603 !important;
   background: transparent !important;
 }
 
@@ -10335,7 +10335,7 @@ textarea.form-control {
   font-size: 18px;
   display: block;
   margin-bottom: 5px;
-  color: #1089ff;
+  color: #fcc603;
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 2px;

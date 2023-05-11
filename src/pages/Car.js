@@ -108,7 +108,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -121,7 +121,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -138,7 +138,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Range Rover</a>
+                <a href="/carsingle">Range Rover</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Subaru</span>
@@ -151,7 +151,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -168,7 +168,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -181,7 +181,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -198,7 +198,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -211,7 +211,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -228,7 +228,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Range Rover</a>
+                <a href="/carsingle">Range Rover</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Subaru</span>
@@ -241,7 +241,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -258,7 +258,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -271,7 +271,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -288,7 +288,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -301,7 +301,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -318,7 +318,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Range Rover</a>
+                <a href="/carsingle">Range Rover</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Subaru</span>
@@ -331,7 +331,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -348,7 +348,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -361,7 +361,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -378,7 +378,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -391,7 +391,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -408,7 +408,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Range Rover</a>
+                <a href="/carsingle">Range Rover</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Subaru</span>
@@ -421,7 +421,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
@@ -438,7 +438,7 @@ const Car = () => {
             ></div>
             <div className="text">
               <h2 className="mb-0">
-                <a href="car-single.html">Mercedes Grand Sedan</a>
+                <a href="/carsingle">Mercedes Grand Sedan</a>
               </h2>
               <div className="d-flex mb-3">
                 <span className="cat">Cheverolet</span>
@@ -451,7 +451,7 @@ const Car = () => {
                   Book now
                 </a>{" "}
                 <a
-                  href="car-single.html"
+                  href="/carsingle"
                   className="btn btn-secondary py-2 ml-1"
                 >
                   Details
