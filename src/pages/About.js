@@ -90,7 +90,7 @@ const About = () => {
   {/* END nav */}
   <section
     className="hero-wrap hero-wrap-2 js-fullheight"
-    style={{ backgroundImage: 'url("images/bg_3.jpg")' }}
+    style={{ backgroundImage: `url(${bg_5})` }}
     data-stellar-background-ratio="0.5"
   >
     <div className="overlay" />
@@ -117,7 +117,7 @@ const About = () => {
       <div className="row no-gutters">
         <div
           className="col-md-6 p-md-5 img img-2 d-flex justify-content-center align-items-center"
-          style={{ backgroundImage: "url(images/about.jpg)" }}
+          style={{ backgroundImage: `url(${bg_3})` }}
         ></div>
         <div className="col-md-6 wrap-about ftco-animate">
           <div className="heading-section heading-section-white pl-md-5">
@@ -148,6 +148,7 @@ const About = () => {
       </div>
     </div>
   </section>
+
   <section className="ftco-counter ftco-section img" id="section-counter">
     <div className="overlay" />
     <div className="container">

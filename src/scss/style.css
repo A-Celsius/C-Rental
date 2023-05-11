@@ -8983,7 +8983,7 @@ h1, h2, h3, h4, h5,
   color: #fff;
 }
 .ftco-navbar-light .navbar-brand span {
-  color: #01d28e;
+  color: #fcc603;
 }
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-brand {
@@ -9006,7 +9006,7 @@ h1, h2, h3, h4, h5,
   opacity: 1 !important;
 }
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-  color: #01d28e;
+  color: #fcc603;
 }
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
@@ -9075,7 +9075,7 @@ h1, h2, h3, h4, h5,
   background: #01d28e !important;
 }
 .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-  color: #01d28e;
+  color: #fcc603;
 }
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
@@ -9508,9 +9508,9 @@ h1, h2, h3, h4, h5,
   outline: none;
 }
 .btn.btn-primary {
-  background: #1089ff !important;
-  border: 1px solid #1089ff !important;
-  color: #fff !important;
+  background: #36bf55 !important;
+  border: 1px solid #36bf55 !important;
+  color: #000000 !important;
 }
 .btn.btn-primary:hover {
   border: 1px solid #1089ff;
@@ -9528,8 +9528,8 @@ h1, h2, h3, h4, h5,
   color: #fff;
 }
 .btn.btn-secondary {
-  background: #01d28e !important;
-  border: 1px solid #01d28e !important;
+  background: #1089ff !important;
+  border: 1px solid #1089ff !important;
   color: #fff !important;
 }
 .btn.btn-secondary:hover {
@@ -9954,7 +9954,7 @@ h1, h2, h3, h4, h5,
   right: 0;
   bottom: 0;
   content: "";
-  background: #01d28e;
+  background: #fcc603;
   z-index: -2;
   width: 63%;
 }
@@ -10002,7 +10002,7 @@ h1, h2, h3, h4, h5,
 .services.services-2 .icon {
   width: 110px;
   height: 110px;
-  background: #1089ff;
+  background: #ff9f10;
   border: none;
 }
 .services.services-2 .icon span {
@@ -10122,7 +10122,7 @@ textarea.form-control {
 
 
 .bg-primary {
-  background: #1089ff !important;
+  background: #fcc603 !important;
 }
 
 .bg-black {
@@ -10179,7 +10179,7 @@ textarea.form-control {
   color: #fff;
 }
 .ftco-footer .logo span {
-  color: #01d28e;
+  color: #fcc603;
 }
 .ftco-footer .ftco-footer-widget h2 {
   font-weight: normal;
@@ -10443,7 +10443,7 @@ textarea.form-control {
   background: rgba(0, 0, 0, 0.1);
 }
 .testimony-section .owl-dots .owl-dot.active {
-  background: #01d28e;
+  background: #fcc603;
 }
 
 .testimony-wrap {
@@ -10699,7 +10699,7 @@ textarea.form-control {
 }
 .contact-section .contact-info .icon span {
   font-size: 20px;
-  color: #1089ff;
+  color: #fcc603;
 }
 @media (min-width: 992px) {
   .contact-section .contact-info .border-height {

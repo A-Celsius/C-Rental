@@ -1,5 +1,5 @@
 import React from 'react'
-const bg_1 = require("../images/bg_1.jpg")
+const bg_1 = require("../images/car_bg.jpg")
 // const bg_2 = require("../images/bg_2.jpg")
 const bg_3 = require("../images/bg_3.jpg")
 const person_1 = require("../images/person_1.jpg")
