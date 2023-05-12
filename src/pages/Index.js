@@ -1,6 +1,7 @@
 import React from 'react'
 const bg_1 = require("../images/car_bg.jpg")
 // const bg_2 = require("../images/bg_2.jpg")
+const about_img = require("../images/about.jpg")
 const bg_3 = require("../images/bg_3.jpg")
 const person_1 = require("../images/person_1.jpg")
 const person_2 = require("../images/person_2.jpg")
@@ -239,136 +240,12 @@ const Index = () => {
       </div>
     </div>
   </section>
-  <section className="ftco-section ftco-no-pt bg-light">
-    <div className="container">
-      <div className="row justify-content-center">
-        <div className="col-md-12 heading-section text-center ftco-animate mb-5">
-          <span className="subheading">What we offer</span>
-          <h2 className="mb-2">Feeatured Vehicles</h2>
-        </div>
-      </div>
-      <div className="row">
-        <div className="col-md-12">
-          <div className="carousel-car owl-carousel">
-            <div className="item">
-              <div className="car-wrap rounded ftco-animate">
-                <div
-                  className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: `url(${car1})`}}
-                ></div>
-                <div className="text">
-                  <h2 className="mb-0">
-                    <a href="#">Mercedes Grand Sedan</a>
-                  </h2>
-                  <div className="d-flex mb-3">
-                    <span className="cat">Cheverolet</span>
-                    <p className="price ml-auto">
-                      $500 <span>/day</span>
-                    </p>
-                  </div>
-                  <p className="d-flex mb-0 d-block">
-                    <a href="#" className="btn btn-primary py-2 mr-1">
-                      Book now
-                    </a>{" "}
-                    <a href="#" className="btn btn-secondary py-2 ml-1">
-                      Details
-                    </a>
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="item">
-              <div className="car-wrap rounded ftco-animate">
-                <div
-                  className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: `url(${car2})`}}
-                ></div>
-                <div className="text">
-                  <h2 className="mb-0">
-                    <a href="#">Mercedes Grand Sedan</a>
-                  </h2>
-                  <div className="d-flex mb-3">
-                    <span className="cat">Cheverolet</span>
-                    <p className="price ml-auto">
-                      $500 <span>/day</span>
-                    </p>
-                  </div>
-                  <p className="d-flex mb-0 d-block">
-                    <a href="#" className="btn btn-primary py-2 mr-1">
-                      Book now
-                    </a>{" "}
-                    <a href="#" className="btn btn-secondary py-2 ml-1">
-                      Details
-                    </a>
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="item">
-              <div className="car-wrap rounded ftco-animate">
-                <div
-                  className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: `url(${car3})`}}
-                ></div>
-                <div className="text">
-                  <h2 className="mb-0">
-                    <a href="#">Mercedes Grand Sedan</a>
-                  </h2>
-                  <div className="d-flex mb-3">
-                    <span className="cat">Cheverolet</span>
-                    <p className="price ml-auto">
-                      $500 <span>/day</span>
-                    </p>
-                  </div>
-                  <p className="d-flex mb-0 d-block">
-                    <a href="#" className="btn btn-primary py-2 mr-1">
-                      Book now
-                    </a>{" "}
-                    <a href="#" className="btn btn-secondary py-2 ml-1">
-                      Details
-                    </a>
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="item">
-              <div className="car-wrap rounded ftco-animate">
-                <div
-                  className="img rounded d-flex align-items-end"
-                  style={{ backgroundImage: `url(${car4})`}}
-                ></div>
-                <div className="text">
-                  <h2 className="mb-0">
-                    <a href="#">Mercedes Grand Sedan</a>
-                  </h2>
-                  <div className="d-flex mb-3">
-                    <span className="cat">Cheverolet</span>
-                    <p className="price ml-auto">
-                      $500 <span>/day</span>
-                    </p>
-                  </div>
-                  <p className="d-flex mb-0 d-block">
-                    <a href="#" className="btn btn-primary py-2 mr-1">
-                      Book now
-                    </a>{" "}
-                    <a href="#" className="btn btn-secondary py-2 ml-1">
-                      Details
-                    </a>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
   <section className="ftco-section ftco-about">
     <div className="container">
       <div className="row no-gutters">
         <div
           className="col-md-6 p-md-5 img img-2 d-flex justify-content-center align-items-center"
-          style={{ backgroundImage: "url(images/about.jpg)" }}
+          style={{ backgroundImage: `url(${about_img})`}}
         ></div>
         <div className="col-md-6 wrap-about ftco-animate">
           <div className="heading-section heading-section-white pl-md-5">
@@ -478,7 +355,7 @@ const Index = () => {
           <div className="block-18">
             <div className="text text-border d-flex align-items-center">
               <strong className="number" data-number={60}>
-                0
+                12
               </strong>
               <span>
                 Year <br />
@@ -491,7 +368,7 @@ const Index = () => {
           <div className="block-18">
             <div className="text text-border d-flex align-items-center">
               <strong className="number" data-number={1090}>
-                0
+                1090
               </strong>
               <span>
                 Total <br />
@@ -504,7 +381,7 @@ const Index = () => {
           <div className="block-18">
             <div className="text text-border d-flex align-items-center">
               <strong className="number" data-number={2590}>
-                0
+                2590
               </strong>
               <span>
                 Happy <br />
@@ -517,7 +394,7 @@ const Index = () => {
           <div className="block-18">
             <div className="text d-flex align-items-center">
               <strong className="number" data-number={67}>
-                0
+                63
               </strong>
               <span>
                 Total <br />

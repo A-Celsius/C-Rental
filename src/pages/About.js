@@ -152,12 +152,12 @@ const About = () => {
   <section className="ftco-counter ftco-section img" id="section-counter">
     <div className="overlay" />
     <div className="container">
-      <div className="row">
+    <div className="row">
         <div className="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
           <div className="block-18">
             <div className="text text-border d-flex align-items-center">
               <strong className="number" data-number={60}>
-                0
+                12
               </strong>
               <span>
                 Year <br />
@@ -170,7 +170,7 @@ const About = () => {
           <div className="block-18">
             <div className="text text-border d-flex align-items-center">
               <strong className="number" data-number={1090}>
-                0
+                1090
               </strong>
               <span>
                 Total <br />
@@ -183,7 +183,7 @@ const About = () => {
           <div className="block-18">
             <div className="text text-border d-flex align-items-center">
               <strong className="number" data-number={2590}>
-                0
+                2590
               </strong>
               <span>
                 Happy <br />
@@ -196,7 +196,7 @@ const About = () => {
           <div className="block-18">
             <div className="text d-flex align-items-center">
               <strong className="number" data-number={67}>
-                0
+                63
               </strong>
               <span>
                 Total <br />
